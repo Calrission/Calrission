@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calrission&layout=compact&theme=radical&background=000000&locale=ru" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calrission&layout=compact&theme=radical&background=000000&locale=ru" />
 </p>
