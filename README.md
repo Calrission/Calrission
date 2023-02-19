@@ -25,4 +25,14 @@
 | Firebase                   |                |                |             |                            | Dbeaver                   |
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 February 2023 - To: 19 February 2023
+
+Total Time: 4 hrs 30 mins
+
+Kotlin   3 hrs 35 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.61 %
+XML      55 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.39 %
+```
+
 <!--END_SECTION:waka-->
