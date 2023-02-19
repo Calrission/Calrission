@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calrission&layout=compact&theme=radical&background=000000&locale=ru" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
