@@ -23,3 +23,6 @@
 | FlexboxLayout              |                |                |             |                            | Postman                   | SQL
 | Gson                       |                |                |             |                            | Figma                     |
 | Firebase                   |                |                |             |                            | Dbeaver                   |
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
