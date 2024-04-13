@@ -51,6 +51,7 @@ XML                    31 hrs 23 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![IDEA](https://github.com/Calrission/Calrission/assets/95771802/7cda4a4a-7c4a-42d8-99ae-adf99bff74f7)
 ![DBEAVER](https://github.com/Calrission/Calrission/assets/95771802/45f35087-cea2-4899-90d9-42b501e64a02)
 ![FIGMA](https://github.com/Calrission/Calrission/assets/95771802/38c5e6f0-3733-48c6-95a0-c14fd235dc89)
+![POSTMAN](https://github.com/Calrission/Calrission/assets/95771802/6346276a-6904-418f-aa8b-e9af4f08a78f)
 
 ![PLATFORMS](https://github.com/Calrission/Calrission/assets/95771802/c064d21d-179f-41f6-af43-39054a3ed036)
 ![ANDROID](https://github.com/Calrission/Calrission/assets/95771802/871f6293-1ea7-49b1-a6b7-5bb77b1a1abf)
