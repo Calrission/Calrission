@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2023 - To: 10 May 2025
+From: 18 February 2023 - To: 11 May 2025
 
-Total Time: 1,611 hrs 35 mins
+Total Time: 1,611 hrs 36 mins
 
 Dart                   499 hrs 34 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.00 %
 Other                  360 hrs 12 mins ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.35 %
