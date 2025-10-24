@@ -26,10 +26,6 @@ Go                     153 hrs 49 mins ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api?username=Calrission&show_icons=true&theme=radical&locale=ru" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calrission&layout=compact&theme=radical&background=000000&locale=ru" />
-</p>
-
 
 ### ✨ Мой стек
 ![LANGUAGES](https://github.com/Calrission/Calrission/assets/95771802/3a0ad27f-f215-4933-b3ab-6d705c27b6d2)
